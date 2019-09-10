@@ -5,12 +5,11 @@
 ![Node.JS](https://img.shields.io/badge/Node-v11.0-green.svg)
 [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/jj-zhang/Memory-Tracker/blob/master/LICENSE)
 
+Memory tracker is a web application that fetches data and generates questionnaire to help elder people with memory recall.
 
 <img width="750" alt="profile" src="https://user-images.githubusercontent.com/24790572/64635929-a7982300-d3ce-11e9-8bf4-f79de76edd7c.png">
 
 <img width="750" alt="profile" src="https://user-images.githubusercontent.com/24790572/64635935-a961e680-d3ce-11e9-842e-29e9ccb68b1b.png">
-
-Memory tracker is a web application that fetches data and generates questionnaire to help elder people with memory recall.
 
 ## Getting Started
 
